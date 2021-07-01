@@ -1,6 +1,5 @@
-<p align="right"><img src="https://komarev.com/ghpvc/?username=Tokirkhokhar" alt="Tokirkhokhar101"> </p> 
+<h1 >Hellow 👋 I am Tokir Khokhar  <img src="https://komarev.com/ghpvc/?username=Tokirkhokhar" alt="Tokirkhokhar101" align="right" > </h1>
 
-<h1 align=center> Hellow 👋 I am Tokir Khokhar 
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=TokirKhokhar&&show_icons=true&title_color=A5EC9C&icon_color=A5EC9C&text_color=F3FAF9&bg_color=22272E">
 
